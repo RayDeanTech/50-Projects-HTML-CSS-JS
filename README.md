@@ -17,6 +17,9 @@ DOM manipulation, events, array methods, HTTP requests & more
 Suitable for both beginners & intermediate front-end developers
 Everything is open-source. Use the projects in your own personal portfolio
 
-# Link
+# Course Link
 
 [50 Projects In 50 Days](https://www.traversymedia.com/50-Projects-In-50-Days)
+
+# Index
+
