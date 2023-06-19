@@ -30,3 +30,5 @@ GitHub Code | Live Demo |
 [04 - Rotating Nav Animation](04%20-%20Rotating%20Nav%20Animation/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/04%20-%20Rotating%20Nav%20Animation |
 [05 - Hidden Search Widget](05%20-%20Hidden%20Search%20Widget/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/05%20-%20Hidden%20Search%20Widget |
 [06 - Blurry Loading](06%20-%20Blurry%20Loading/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/06%20-%20Blurry%20Loading |
+[07 - Scroll Animation](07%20-%20Scroll%20Animation/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/07%20-%20Scroll%20Animation |
+[08 - Split Landing Page](08%20-%20Split%20Landing%20Page/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/08%20-%20Split%20Landing%20Page |
