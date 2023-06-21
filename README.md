@@ -33,3 +33,4 @@ GitHub Code | Live Demo |
 [07 - Scroll Animation](07%20-%20Scroll%20Animation/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/07%20-%20Scroll%20Animation |
 [08 - Split Landing Page](08%20-%20Split%20Landing%20Page/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/08%20-%20Split%20Landing%20Page |
 [09 - Form Input Wave](09%20-%20Form%20Input%20Wave/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/09%20-%20Form%20Input%20Wave |
+[10 - Sound Board](10%20-%20Sound%20Board/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/10%20-%20Sound%20Board |
