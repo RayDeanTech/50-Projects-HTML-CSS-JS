@@ -35,3 +35,7 @@ GitHub Code | Live Demo |
 [09 - Form Input Wave](09%20-%20Form%20Input%20Wave/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/09%20-%20Form%20Input%20Wave |
 [10 - Sound Board](10%20-%20Sound%20Board/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/10%20-%20Sound%20Board |
 [11 - Dad Jokes](11%20-%20Dad%20Jokes/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/11%20-%20Dad%20Jokes |
+[12 - Event KeyCodes](12%20-%20Event%20KeyCodes/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/12%20-%20Event%20KeyCodes |
+[13 - FAQ Collapse](13%20-%20FAQ%20Collapse/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/13%20-%20FAQ%20Collapse |
+[14 - Random Choice Picker](14%20-%20Random%20Choice%20Picker/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/14%20-%20Random%20Choice%20Picker |
+[15 - Animated Navigation](15%20-%20Animated%20Navigation/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/15%20-%20Animated%20Navigation |
