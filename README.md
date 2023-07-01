@@ -39,3 +39,6 @@ GitHub Code | Live Demo |
 [13 - FAQ Collapse](13%20-%20FAQ%20Collapse/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/13%20-%20FAQ%20Collapse |
 [14 - Random Choice Picker](14%20-%20Random%20Choice%20Picker/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/14%20-%20Random%20Choice%20Picker |
 [15 - Animated Navigation](15%20-%20Animated%20Navigation/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/15%20-%20Animated%20Navigation |
+[16 - Incrementing Counter](16%20-%20Incrementing%20Counter/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/16%20-%20Incrementing%20Counter |
+[17 - Water Tracker](17%20-%20Water%20Tracker/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/17%20-%20Water%20Tracker |
+[18 - Movie App](18%20-%20Movie%20App/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/18%20-%20Movie%20App |
