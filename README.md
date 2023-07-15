@@ -42,3 +42,5 @@ GitHub Code | Live Demo |
 [16 - Incrementing Counter](16%20-%20Incrementing%20Counter/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/16%20-%20Incrementing%20Counter |
 [17 - Water Tracker](17%20-%20Water%20Tracker/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/17%20-%20Water%20Tracker |
 [18 - Movie App](18%20-%20Movie%20App/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/18%20-%20Movie%20App |
+[19 - Background Slider](19%20-%20Background%20Slider/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/19%20-%20Background%20Slider |
+[20 - Theme Clock](20%20-%20Theme%20Clock/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/20%20-%20Theme%20Clock |
