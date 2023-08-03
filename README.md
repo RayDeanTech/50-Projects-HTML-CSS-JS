@@ -46,3 +46,7 @@ GitHub Code | Live Demo |
 [20 - Theme Clock](20%20-%20Theme%20Clock/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/20%20-%20Theme%20Clock |
 [21 - Button Ripple](21%20-%20Button%20Ripple/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/21%20-%20Button%20Ripple |
 [22 - Drag N Drop](22%20-%20Drag%20N%20Drop/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/22%20-%20Drag%20N%20Drop |
+[23 - Drawing App](23%20-%20Drawing%20App/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/23%20-%20Drawing%20App |
+[24 - Kinetic Loader](24%20-%20Kinetic%20Loader/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/24%20-%20Kinetic%20Loader |
+[25 - Content Placeholder](25%20-%20Content%20Placeholder/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/25%20-%20Content%20Placeholder |
+[26 - Sticky NavBar](26%20-%20Sticky%20NavBar/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/26%20-%20Sticky%20NavBar |
