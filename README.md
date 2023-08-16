@@ -50,3 +50,5 @@ GitHub Code | Live Demo |
 [24 - Kinetic Loader](24%20-%20Kinetic%20Loader/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/24%20-%20Kinetic%20Loader |
 [25 - Content Placeholder](25%20-%20Content%20Placeholder/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/25%20-%20Content%20Placeholder |
 [26 - Sticky NavBar](26%20-%20Sticky%20NavBar/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/26%20-%20Sticky%20NavBar |
+[27 - Double Vertical Slider](27%20-%20Double%20Vertical%20Slider/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/27%20-%20Double%20Vertical%20Slider |
+[28 - Toast Notification](28%20-%20Toast%20Notification/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/28%20-%20Toast%20Notification |
