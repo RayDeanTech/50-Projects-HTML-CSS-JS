@@ -52,3 +52,6 @@ GitHub Code | Live Demo |
 [26 - Sticky NavBar](26%20-%20Sticky%20NavBar/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/26%20-%20Sticky%20NavBar |
 [27 - Double Vertical Slider](27%20-%20Double%20Vertical%20Slider/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/27%20-%20Double%20Vertical%20Slider |
 [28 - Toast Notification](28%20-%20Toast%20Notification/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/28%20-%20Toast%20Notification |
+[29 - GitHub Profiles](29%20-%20GitHub%20Profiles/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/29%20-%20GitHub%20Profiles |
+[30 - Double Click Heart](30%20-%20Double%20Click%20Heart/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/30%20-%20Double%20Click%20Heart |
+[31 - Auto Text Effect](31%20-%20Auto%20Text%20Effect/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/31%20-%20Auto%20Text%20Effect |
