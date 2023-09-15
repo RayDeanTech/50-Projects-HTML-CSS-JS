@@ -55,3 +55,4 @@ GitHub Code | Live Demo |
 [29 - GitHub Profiles](29%20-%20GitHub%20Profiles/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/29%20-%20GitHub%20Profiles |
 [30 - Double Click Heart](30%20-%20Double%20Click%20Heart/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/30%20-%20Double%20Click%20Heart |
 [31 - Auto Text Effect](31%20-%20Auto%20Text%20Effect/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/31%20-%20Auto%20Text%20Effect |
+[32 - Password Generator](32%20-%20Password%20Generator/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/32%20-%20Password%20Generator |
