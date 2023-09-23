@@ -56,3 +56,7 @@ GitHub Code | Live Demo |
 [30 - Double Click Heart](30%20-%20Double%20Click%20Heart/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/30%20-%20Double%20Click%20Heart |
 [31 - Auto Text Effect](31%20-%20Auto%20Text%20Effect/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/31%20-%20Auto%20Text%20Effect |
 [32 - Password Generator](32%20-%20Password%20Generator/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/32%20-%20Password%20Generator |
+[33 - Good, Cheap, Fast Checkboxes](33%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/33%20-%20Good%2C%20Cheap%2C%20Fast%20Checkboxes |
+[34 - Notes App](34%20-%20Notes%20App/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/34%20-%20Notes%20App |
+[35 - Animated Countdown](35%20-%20Animated%20Countdown/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/35%20-%20Animated%20Countdown |
+[36 - Image Carousel](36%20-%20Image%20Carousel/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/36%20-%20Image%20Carousel |
