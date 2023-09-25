@@ -60,3 +60,4 @@ GitHub Code | Live Demo |
 [34 - Notes App](34%20-%20Notes%20App/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/34%20-%20Notes%20App |
 [35 - Animated Countdown](35%20-%20Animated%20Countdown/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/35%20-%20Animated%20Countdown |
 [36 - Image Carousel](36%20-%20Image%20Carousel/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/36%20-%20Image%20Carousel |
+[37 -Hoverboard](37%20-Hoverboard/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/37%20-Hoverboard |
