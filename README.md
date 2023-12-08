@@ -63,3 +63,6 @@ GitHub Code | Live Demo |
 [37 -Hoverboard](37%20-Hoverboard/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/37%20-Hoverboard |
 [38 - Pokedex](38%20-%20Pokedex/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/38%20-%20Pokedex |
 [39 - Mobile Tab Navigation](39%20-%20Mobile%20Tab%20Navigation/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/39%20-%20Mobile%20Tab%20Navigation |
+[40 - Password Strength](40%20-%20Password%20Strength/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/40%20-%20Password%20Strength |
+[41 - 3D Background Boxes](41%20-%203D%20Background%20Boxes/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/41%20-%203D%20Background%20Boxes |
+[42 - Verify Account UI](42%20-%20Verify%20Account%20UI/) | https://demos.raydean.tech/50-Projects-HTML-CSS-JS/42%20-%20Verify%20Account%20UI |
